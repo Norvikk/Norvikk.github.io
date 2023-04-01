@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.03e01d5e.css",
-    "main.js": "/static/js/main.f6f90e4a.js",
+    "main.css": "/static/css/main.2f3f5b9c.css",
+    "main.js": "/static/js/main.eb57abf5.js",
     "static/media/Hack-BoldItalic.ttf": "/static/media/Hack-BoldItalic.03743e1b9d3148efc5c9.ttf",
     "static/media/Hack-Bold.ttf": "/static/media/Hack-Bold.fa333d5bc73cad9318a9.ttf",
     "static/media/Hack-Italic.ttf": "/static/media/Hack-Italic.4ff6e7342f4c9b092592.ttf",
     "static/media/Hack-Regular.ttf": "/static/media/Hack-Regular.3797fd9f353804be7de8.ttf",
     "static/media/peaks.svg": "/static/media/peaks.908eb63f387450e69f25.svg",
     "index.html": "/index.html",
-    "main.03e01d5e.css.map": "/static/css/main.03e01d5e.css.map",
-    "main.f6f90e4a.js.map": "/static/js/main.f6f90e4a.js.map"
+    "main.2f3f5b9c.css.map": "/static/css/main.2f3f5b9c.css.map",
+    "main.eb57abf5.js.map": "/static/js/main.eb57abf5.js.map"
   },
   "entrypoints": [
-    "static/css/main.03e01d5e.css",
-    "static/js/main.f6f90e4a.js"
+    "static/css/main.2f3f5b9c.css",
+    "static/js/main.eb57abf5.js"
   ]
 }
