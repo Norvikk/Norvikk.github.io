@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.e549f000.css",
-    "main.js": "/static/js/main.44a3a337.js",
+    "main.css": "/static/css/main.6490b17b.css",
+    "main.js": "/static/js/main.4210cefa.js",
     "static/media/Hack-BoldItalic.ttf": "/static/media/Hack-BoldItalic.03743e1b9d3148efc5c9.ttf",
     "static/media/Hack-Bold.ttf": "/static/media/Hack-Bold.fa333d5bc73cad9318a9.ttf",
     "static/media/Hack-Italic.ttf": "/static/media/Hack-Italic.4ff6e7342f4c9b092592.ttf",
     "static/media/Hack-Regular.ttf": "/static/media/Hack-Regular.3797fd9f353804be7de8.ttf",
-    "static/media/peaks.svg": "/static/media/peaks.908eb63f387450e69f25.svg",
+    "static/media/Monocraft.ttf": "/static/media/Monocraft.d2201aeb746218a4c4bb.ttf",
+    "static/media/gradient.svg": "/static/media/gradient.e790b3fcb9ce27a1ebb4.svg",
+    "static/media/tall_peaks.svg": "/static/media/tall_peaks.58b76dd957994051371d.svg",
+    "static/media/peaks.svg": "/static/media/peaks.4c8b68a414fc06b1405c.svg",
     "index.html": "/index.html",
-    "main.e549f000.css.map": "/static/css/main.e549f000.css.map",
-    "main.44a3a337.js.map": "/static/js/main.44a3a337.js.map"
+    "main.6490b17b.css.map": "/static/css/main.6490b17b.css.map",
+    "main.4210cefa.js.map": "/static/js/main.4210cefa.js.map"
   },
   "entrypoints": [
-    "static/css/main.e549f000.css",
-    "static/js/main.44a3a337.js"
+    "static/css/main.6490b17b.css",
+    "static/js/main.4210cefa.js"
   ]
 }
