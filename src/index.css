@@ -1,0 +1,51 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+body {
+    margin: 0;
+    
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    
+  }
+  
+:root {
+    --background-color: #0B0C0D;
+    --foreground-color: #101212;
+    --accent-color: #FF0000;
+}
+
+body {
+    background-color: #0B0C0D;
+}
+
+p:hover {
+    transition: .3s;
+    color: red;
+}
+
+p {
+    transition: .3s;
+}
+
+
+@font-face {
+    font-family: 'hack';
+    src: url('/public/Hack-Bold.ttf'),
+         url('/public/Hack-BoldItalic.ttf'),
+         url('/public/Hack-Italic.ttf') ,
+         url('/public/Hack-Regular.ttf') format('truetype');
+  
+
+    
+  }
+
+  @font-face {
+    font-family: 'monocrafted';
+    src: url('/public/Monocraft.ttf') ;
+  }
+
+  
+
+  

@@ -1,0 +1,28 @@
+{
+  "contactData": [
+    {
+      "_uid": "IBI: 000",
+      "component": "liner",
+      "logo_link": "https://cdn-icons-png.flaticon.com/512/25/25231.png",
+      "metadata_title": "Github",
+      "anchor_redirect": "https://github.com/Norvikk",
+      "metadata": "/Norvikk"
+    },
+    {
+      "_uid": "IBI: 003",
+      "component": "liner",
+      "logo_link": "https://www.pa.informatik.uni-kiel.de/en/downloads/icons/icon-mail-black/image",
+      "metadata_title": "Direct Contact",
+      "anchor_redirect": "mailto:web-lnk-prtf@imcnorvik.xyz",
+      "metadata": "/web-lnk-prtf@imcnorvik.xyz"
+    },
+    {
+      "_uid": "IBI: 003",
+      "component": "liner",
+      "logo_link": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6ac3c481f273141736_icon_clyde_black_RGB.png",
+      "metadata_title": "Discord",
+      "anchor_redirect": "https://discord.com/channels/@me",
+      "metadata": "/Norvik#2001"
+    }
+  ]
+}

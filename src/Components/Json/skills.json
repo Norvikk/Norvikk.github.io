@@ -1,0 +1,152 @@
+{
+  "languageSkill": [
+    {
+      "_uid": "SKILL_001",
+      "component": "liner",
+      "logo_link": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/255px-Flag_of_Italy.svg.png",
+      "height": "30%",
+      "metadata_title": "Italian",
+      "metadata": "proficient - native tongue"
+    },
+    {
+      "_uid": "SKILL_002",
+      "component": "liner",
+      "logo_link": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/255px-Flag_of_the_United_Kingdom.svg.png",
+      "height": "30%",
+      "metadata_title": "English ",
+      "metadata": "proficient -> expert"
+    },
+    {
+      "_uid": "SKILL_003",
+      "component": "liner",
+      "logo_link": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/255px-Flag_of_Germany.svg.png",
+      "height": "30%",
+      "metadata_title": "German",
+      "metadata": "proficient"
+    },
+    {
+      "_uid": "SKILL_004",
+      "component": "liner",
+      "logo_link": "https://www.in-formality.com/wiki/images/c/cc/Romania_flag.png",
+      "height": "30%",
+      "metadata_title": "Romanian",
+      "metadata": "hobby -- advanced beginner"
+    },
+    {
+      "_uid": "SKILL_005",
+      "component": "liner",
+      "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/1200px-Bandera_de_Espa%C3%B1a.svg.png",
+      "height": "30%",
+      "metadata_title": "Spanish",
+      "metadata": "hobby -- beginner"
+    }
+  ],
+  "computerLanguageSkill": [
+    {
+      "_uid": "SKILL_001",
+      "component": "liner",
+      "logo_link": "https://i.redd.it/tu3gt6ysfxq71.png",
+      "height": "",
+      "metadata_title": "Unity C#",
+      "metadata": "proficient"
+    },
+    {
+      "_uid": "SKILL_002",
+      "component": "liner",
+      "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/180px-C_Sharp_wordmark.svg.png",
+      "height": "",
+      "metadata_title": "C#",
+      "metadata": "competent"
+    },
+    {
+      "_uid": "SKILL_003",
+      "component": "liner",
+      "height": "",
+      "logo_link": "https://www.freecodecamp.org/news/content/images/2021/01/rust-mascot.png",
+      "metadata_title": "Rust",
+      "metadata": "advanced beginner"
+    },
+    {
+      "_uid": "SKILL_004",
+      "component": "liner",
+      "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/182px-React-icon.svg.png",
+      "height": "",
+      "metadata_title": "React Native",
+      "metadata": "competent"
+    },
+    {
+      "_uid": "SKILL_005",
+      "component": "liner",
+      "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/182px-React-icon.svg.png",
+      "height": "",
+      "metadata_title": "React",
+      "metadata": "novice"
+    },
+    {
+      "_uid": "SKILL_006",
+      "component": "liner",
+      "logo_link": "https://cdn-icons-png.flaticon.com/512/6132/6132222.png",
+      "height": "",
+      "metadata_title": "C++",
+      "metadata": "novice"
+    }
+  ],
+  "miscSkill": [
+    {
+      "_uid": "SKILL_001",
+      "component": "liner",
+      "logo_link": "https://www.citypng.com/public/uploads/small/11663347637vy9dp4kriiy0187heu8i73fc36djjnemcvgl2b14phqsbv3u5jhiux6yssdqyybskym44crgnp7pkpnktibuqfv64fm5e9rehosk.png",
+      "height": "",
+      "metadata_title": "Unity 3D DOTS",
+      "metadata": "novice"
+    },
+    {
+      "_uid": "SKILL_002",
+      "component": "liner",
+      "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/939px-Blender_logo_no_text.svg.png",
+      "height": "",
+      "metadata_title": "Blender",
+      "metadata": "competent"
+    },
+    {
+      "_uid": "SKILL_003",
+      "component": "liner",
+      "height": "",
+      "logo_link": "https://www.shareicon.net/data/2015/09/15/101512_logo_512x512.png",
+      "metadata_title": "Github",
+      "metadata": "advanced beginner"
+    },
+    {
+      "_uid": "SKILL_005",
+      "component": "liner",
+      "height": "",
+      "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/113px-Visual_Studio_Code_1.35_icon.svg.png",
+      "metadata_title": "Visual Studio Code",
+      "metadata": "competent"
+    },
+    {
+      "_uid": "SKILL_006",
+      "component": "liner",
+      "height": "",
+      "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/96px-Visual_Studio_Icon_2019.svg.png",
+      "metadata_title": "Visual Studio",
+      "metadata": "competent"
+    },
+    {
+      "_uid": "SKILL_011",
+      "component": "liner",
+      "height": "",
+      "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png",
+      "metadata_title": "Jetbrains IDEs",
+      "metadata": "competent"
+    },
+    {
+      "_uid": "SKILL_004",
+      "component": "liner",
+      "height": "",
+      "logo_link": "https://upload.wikimedia.org/wikipedia/commons/6/65/Microsoft_Office_logo_%282013%E2%80%932019%29.png",
+      "metadata_title": "ppt - Word - Teams / Excel - OneNote",
+      "metadata": "proficient / competent"
+    }
+  ]
+}

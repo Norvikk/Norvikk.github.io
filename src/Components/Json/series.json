@@ -1,0 +1,79 @@
+{
+
+    "rustSeries": [
+        {
+            "_uid": "BUY6Drn9e1",
+            "component": "card",
+            "name": "Rustic Denk",
+            "picture_src": "",
+            "metadata": "WORK IN PROGRESS: The final rewrite of the denk algorithm series. This version will contain all features of the C++ version with improved stability",
+            "worked_on": "TBA",
+            "worked_on_date": "xx/xx/xxxx",
+            "worked_on_hex": "red",
+            "redirect_link": ""
+          },
+      {
+        "_uid": "BUY6Drn9e1",
+        "component": "card",
+        "name": "Rustic ConsoleMath",
+        "picture_src": "",
+        "metadata": "Final rewrite of the original ConsoleMath C# and C++ app. Write a fully random math equation, even without using any numbers. Currently supports all Arithmetic operators",
+        "worked_on": "TBA",
+        "worked_on_date": "xx/xx/xxxx",
+        "worked_on_hex": "red",
+        "redirect_link": ""
+      }
+      
+    ],
+    "cppSeries": [
+    
+        {
+          "_uid": "BUY6Drn9e1",
+          "component": "card",
+          "name": "Denk-PlusPlus",
+          "picture_src": "",
+          "metadata": "Advanced rewrite of the OG Denk encryptor in C# with more functionality including buffering and decentralization (unstable) ",
+          "worked_on": "TBA",
+          "worked_on_date": "xx/xx/xxxx",
+          "worked_on_hex": "red",
+          "redirect_link": ""
+        },
+        {
+            "_uid": "BUY6Drn9e1",
+            "component": "card",
+            "name": "Kenny Libraries",
+            "picture_src": "",
+            "metadata": "Simple library that hinders long repetitive code by replacing it with short hard-coded customisable functions",
+            "worked_on": "TBA",
+            "worked_on_date": "xx/xx/xxxx",
+            "worked_on_hex": "red",
+            "redirect_link": ""
+          }
+      ],
+      "csSeries": [
+    
+        {
+          "_uid": "BUY6Drn9e1",
+          "component": "card",
+          "name": "Denk Algorithm",
+          "picture_src": "",
+          "metadata": "The OG Denk Algorithm, a simple encryptor that takes an input (abcc), creates for each letter a 'key', then outputs it (abcc -> asfbcdcd). Each key has a custom size and can go as high as a million letters per key.",
+          "worked_on": "TBA",
+          "worked_on_date": "xx/xx/xxxx",
+          "worked_on_hex": "red",
+          "redirect_link": ""
+        },
+        {
+            "_uid": "BUY6Drn9e1",
+            "component": "card",
+            "name": "ConsoleMath",
+            "picture_src": "",
+            "metadata": "A over-engineered project suggested by ChatGPT. The project is a simple console arithmetic calculator, but this version supports text-numbers and text-operators (minus 4 + five)",
+            "worked_on": "TBA",
+            "worked_on_date": "xx/xx/xxxx",
+            "worked_on_hex": "red",
+            "redirect_link": ""
+          }
+      ]
+
+  }

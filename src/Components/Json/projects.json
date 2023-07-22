@@ -1,0 +1,162 @@
+{
+
+  "unitySet": [
+  
+    {
+      "_uid": "BUY6Drn9e1",
+      "component": "card",
+      "name": "KorvinGrounds",
+      "picture_src": "",
+      "left_box": "Steam",
+      "right_box": "Renders",
+      "left_b_hex": "grey",
+      "right_b_hex": "grey",
+      "metadata": "Fast paced TD-style RTS Summoner genre game coming 2024 to Steam featuring CharStack",
+      "worked_on": "TBA",
+      "worked_on_date": "xx/xx/xxxx",
+      "worked_on_hex": "red",
+      "redirect_link": ""
+    }
+  ],
+  "charStack": [
+    {
+      "_uid": "UNITYSETID0",
+      "component": "card",
+      "name": "SpoSki Algorithm",
+      "picture_src": "",
+      "left_box": "DOTS",
+      "right_box": "C#",
+      "left_b_hex": "red",
+      "right_b_hex": "grey",
+      "metadata": "Efficient mass-compile algorithm that manages Unity DOTS Entities. Efficiently creates, destroys and compiles data for entities in a single frame.",
+      "worked_on": "TBA",
+      "worked_on_hex": "red",
+      "worked_on_date": "xx/xx/xxxx",
+      "redirect_link": ""
+    },
+    {
+      "_uid": "UNITYSETID0",
+      "component": "card",
+      "name": "CharAPI",
+      "picture_src": "",
+      "left_box": "Library",
+      "right_box": "C#",
+      "left_b_hex": "grey",
+      "right_b_hex": "grey",
+      "metadata": "Unity DOTS based API that manages the creation of entities, components and physics data",
+      "worked_on": "TBA",
+      "worked_on_hex": "red",
+      "worked_on_date": "xx/xx/xxxx",
+      "redirect_link": ""
+    },
+    {
+      "_uid": "BUY6Drn9e1",
+      "component": "card",
+      "name": "Kark",
+      "picture_src": "",
+      "left_box": "Private",
+      "right_box": "DRM",
+      "left_b_hex": "#8A0B12",
+      "right_b_hex": "#8A0B12",
+      "metadata": "Inject Obfuscated Code snippets into Unity components that link themselves to prevent the execution of the game outside genuine conditions.",
+      "worked_on": "TBA",
+      "worked_on_hex": "red",
+      "worked_on_date": "xx/xx/xxxx",
+      "redirect_link": ""
+    },
+    {
+      "_uid": "BUY6Drn9e1",
+      "component": "card",
+      "name": "SinEngine",
+      "picture_src": "",
+      "left_box": "Private",
+      "right_box": "Design",
+      "left_b_hex": "#8A0B12",
+      "right_b_hex": "orange",
+      "metadata": "Bakes scenarios for in-game renders and manages the position and behaviour of the Camera object in-game. ",
+      "worked_on": "TBA",
+      "worked_on_hex": "red",
+      "worked_on_date": "xx/xx/xxxx",
+      "redirect_link": ""
+    }
+  ],
+  "remnantSet": [
+    {
+      "_uid": "BUY6Drn9e1",
+      "component": "card",
+      "name": "Denk-Sharp",
+      "picture_src": "",
+      "left_box": "On-Request",
+      "worked_on_hex": "brown",
+      "right_box": "C#",
+      "left_b_hex": "brown",
+      "right_b_hex": "grey",
+      "metadata": "A simple encryptor that takes user input and encrypts each character with a unique 512/1024/2048/4096 character encryption key.",
+      "worked_on": "Finished",
+      "worked_on_date": "25/03/2022",
+      "redirect_link": "https://github.com/Norvikk/Denk-Algorithm"
+    },
+    {
+      "_uid": "BUY6Drn9e1",
+      "component": "card",
+      "name": "Denk-PlusPlus",
+      "picture_src": "",
+      "left_box": "C++",
+      "worked_on_hex": "brown",
+      "right_box": "Encryption",
+      "left_b_hex": "brown",
+      "right_b_hex": "black",
+      "metadata": "A remake of the C# Denk-Sharp algorithm, but in C++ and with a few more features. Including Buffering and Deserialization.",
+      "worked_on": "Functional & restrictions",
+      "worked_on_date": "23/11/2022",
+      "redirect_link": "https://github.com/Norvikk/Denk-PlusPlus"
+    },
+    {
+      "_uid": "BUY6Drn9e1",
+      "component": "card",
+      "name": "www.imcnorvik.xyz",
+      "picture_src": "",
+      "left_box": "Private Repo",
+      "worked_on_hex": "brown",
+      "right_box": "Jsx",
+      "left_b_hex": "#8A0B12",
+      "right_b_hex": "#8A0B12",
+      "metadata": "This Portfolio website was made to improve my vanilla React knowledge, but overall a fun and painful experience.",
+      "worked_on": "Finished",
+      "worked_on_date": "12/09/2022",
+      "redirect_link": ""
+    },
+    {
+      "_uid": "BUY6Drn9e1",
+      "component": "card",
+      "name": "Kenny-sharp",
+      "picture_src": "",
+      "left_box": "C#",
+      "worked_on_hex": "brown",
+      "right_box": "Utilities",
+      "left_b_hex": "grey",
+      "right_b_hex": "black",
+      "metadata": "Kenny is a C#/Unity C# library to handle repetitive and long tasks while keeping the source code clean and tight.",
+      "worked_on": "Finished",
+      "worked_on_date": "8/09/2022",
+      "redirect_link": "https://github.com/Norvikk/Kenny"
+    },
+  
+    {
+      "_uid": "UNITYSETID0",
+      "component": "card",
+      "name": "100 CLI Projects",
+      "picture_src": "",
+      "left_box": "CLI",
+      "right_box": "C#",
+      "left_b_hex": "black",
+      "right_b_hex": "grey",
+      "metadata": "100 Random and fun CLI C# projects chosen from different sources across Twitter and Github or all over Google.",
+      "worked_on": "Not Worked on",
+      "worked_on_hex": "blue",
+      "worked_on_date": "25/11/2022",
+      "redirect_link": "https://github.com/Norvikk/CLI100Projects"
+    } 
+    
+  ]
+}
